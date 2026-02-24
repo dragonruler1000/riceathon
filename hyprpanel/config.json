@@ -1,0 +1,6 @@
+{
+  "bar.customModules.storage.paths": [
+    "/"
+  ],
+  "menus.dashboard.stats.enable_gpu": true
+}

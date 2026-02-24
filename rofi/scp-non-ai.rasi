@@ -1,0 +1,69 @@
+* {
+    bg: #0d0d0d;
+    bg-alt: #1a1a1a;
+    fg: #ffffff;
+    fg-alt: #cccccc;
+    border: #ff4500;
+    selected: #2d2d2d;
+    urgent: #ff0000;
+    
+    background-color: transparent;
+    text-color: @fg;
+    font: "Monospace 12";
+}
+
+window {
+    background-color: @bg;
+    border: 2px;
+    border-color: @border;
+    border-radius: 0px;
+    padding: 20px;
+    width: 600px;
+}
+
+mainbox {
+    children: [inputbar, listview];
+    spacing: 15px;
+}
+
+inputbar {
+    background-color: @bg-alt;
+    border: 1px;
+    border-color: @border;
+    padding: 10px;
+    spacing: 10px;
+    children: [prompt, entry];
+}
+
+prompt {
+    text-color: @border;
+    font: "Monospace Bold 12";
+}
+
+entry {
+    placeholder: "SEARCH SKIPNET...";
+    placeholder-color: @fg-alt;
+}
+
+listview {
+    lines: 8;
+    scrollbar: false;
+    spacing: 5px;
+}
+
+element {
+    padding: 10px;
+    background-color: transparent;
+    border-radius: 0px;
+}
+
+element selected {
+    background-color: @selected;
+    border: 1px;
+    border-color: @border;
+}
+
+element-text {
+    background-color: transparent;
+    text-color: inherit;
+}
