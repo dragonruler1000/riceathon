@@ -13,3 +13,5 @@
 !rofi/**
 !waybar/
 !waybar/**
+!images/
+!images/**
