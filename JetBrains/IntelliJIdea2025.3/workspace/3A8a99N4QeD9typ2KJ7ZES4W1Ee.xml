@@ -7,38 +7,56 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf ideFingerprint="2bwkh4a0dhsgx">
-      <file current-in-tab="true">
+    <leaf ideFingerprint="2bwkh4a0dhsgx" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
         <entry file="file://$PROJECT_DIR$/neofetch/config.conf" file-id="204499" managing-fs="1770768669829">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="-1804">
-              <caret line="389" column="30" selection-start-line="389" selection-start-column="30" selection-end-line="389" selection-end-column="30" />
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
         <tab><![CDATA[{"tabTitle":"config.conf","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
       </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore" file-id="268922" managing-fs="1770768669829">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="330">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":".gitignore","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,77,10,19,118,99,115,47,105,103,110,111,114,101,95,102,105,108,101,46,115,118,103,18,27,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,105,103,110,111,114,101,100,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-117,-17,-30,-110,-7,-1,-1,-1,-1,1,48,2]}]]></tab>
+      </file>
       <file>
-        <entry file="file://$PROJECT_DIR$/neofetch/scp-logo.txt" file-id="204503" managing-fs="1770768669829">
+        <entry file="file://$PROJECT_DIR$/waybar/modules.jsonc" file-id="269265" managing-fs="1770768669829">
           <provider editor-type-id="text-editor" selected="true" />
         </entry>
-        <tab><![CDATA[{"tabTitle":"scp-logo.txt","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"modules.jsonc","foregroundColor":-1536119,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"e88f89"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-55,-15,-115,-58,-6,-1,-1,-1,-1,1,48,2]}]]></tab>
       </file>
     </leaf>
   </component>
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "PLAIN_TEXT": {
-      "usageCount": 1,
-      "lastUsed": 1772031610168
+      "usageCount": 2,
+      "lastUsed": 1772042887020
     },
     "GitIgnore file": {
-      "usageCount": 1,
-      "lastUsed": 1772030931200
+      "usageCount": 2,
+      "lastUsed": 1772043698326
     },
     "textmate": {
+      "usageCount": 2,
+      "lastUsed": 1772042887173
+    },
+    "CSS": {
       "usageCount": 1,
-      "lastUsed": 1772031609667
+      "lastUsed": 1772042967728
+    },
+    "JSON": {
+      "usageCount": 1,
+      "lastUsed": 1772043065272
     }
   }
 }]]></component>
@@ -66,7 +84,8 @@
   </component>
   <component name="IdeDocumentHistory"><![CDATA[{
   "changedPaths": [
-    "/home/zach/.config/neofetch/config.conf"
+    "/home/zach/.config/neofetch/config.conf",
+    "/home/zach/.config/.gitignore"
   ]
 }]]></component>
   <component name="IgnoredFileRootStore">
@@ -77,14 +96,20 @@
     </option>
   </component>
   <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="1" lastUsage="1772042967728" />
+    </language>
     <language id="GitIgnore">
-      <summary usageCount="1" lastUsage="1772030931203" />
+      <summary usageCount="2" lastUsage="1772043698326" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="1" lastUsage="1772043065272" />
     </language>
     <language id="TEXT">
-      <summary usageCount="1" lastUsage="1772031610168" />
+      <summary usageCount="2" lastUsage="1772042887021" />
     </language>
     <language id="textmate">
-      <summary usageCount="1" lastUsage="1772031609667" />
+      <summary usageCount="2" lastUsage="1772042887173" />
     </language>
   </component>
   <component name="ProjectRoots">
@@ -100,16 +125,6 @@
             <path>
               <item name=".config" type="b2602c69:ProjectViewProjectNode" />
               <item name="dir{file:///home/zach/.config}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name=".config" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/zach/.config}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/zach/.config/hypr}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name=".config" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/zach/.config}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/zach/.config/neofetch}" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -133,51 +148,6 @@
                 </attributes>
                 <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="hypr" />
                 <item name="dir{file:///home/zach/.config/hypr}" type="462c0819:PsiDirectoryNode" />
-                <presentation>
-                  <attributes>
-                    <map>
-                      <entry key="filePath" value="$PROJECT_DIR$/hypr/scripts" />
-                    </map>
-                  </attributes>
-                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="scripts" />
-                  <item name="dir{file:///home/zach/.config/hypr/scripts}" type="462c0819:PsiDirectoryNode" />
-                </presentation>
-                <presentation>
-                  <attributes>
-                    <map>
-                      <entry key="filePath" value="$PROJECT_DIR$/hypr/hyprland.conf" />
-                    </map>
-                  </attributes>
-                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="hyprland.conf" />
-                  <item name="hyprland.conf" type="ab9368bb:PsiFileNode" />
-                </presentation>
-                <presentation>
-                  <attributes>
-                    <map>
-                      <entry key="filePath" value="$PROJECT_DIR$/hypr/hyprpaper.conf" />
-                    </map>
-                  </attributes>
-                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="hyprpaper.conf" />
-                  <item name="hyprpaper.conf" type="ab9368bb:PsiFileNode" />
-                </presentation>
-                <presentation>
-                  <attributes>
-                    <map>
-                      <entry key="filePath" value="$PROJECT_DIR$/hypr/hyprsettings.toml" />
-                    </map>
-                  </attributes>
-                  <data iconPath="icons/newui/toml.svg" iconPlugin="org.toml.lang" isLeaf="true" text="hyprsettings.toml" />
-                  <item name="hyprsettings.toml" type="ab9368bb:PsiFileNode" />
-                </presentation>
-              </presentation>
-              <presentation>
-                <attributes>
-                  <map>
-                    <entry key="filePath" value="$PROJECT_DIR$/hyprpanel" />
-                  </map>
-                </attributes>
-                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="hyprpanel" />
-                <item name="dir{file:///home/zach/.config/hyprpanel}" type="462c0819:PsiDirectoryNode" />
               </presentation>
               <presentation>
                 <attributes>
@@ -196,24 +166,15 @@
                 </attributes>
                 <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="neofetch" />
                 <item name="dir{file:///home/zach/.config/neofetch}" type="462c0819:PsiDirectoryNode" />
-                <presentation>
-                  <attributes>
-                    <map>
-                      <entry key="filePath" value="$PROJECT_DIR$/neofetch/config.conf" />
-                    </map>
-                  </attributes>
-                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="config.conf" />
-                  <item name="config.conf" type="ab9368bb:PsiFileNode" />
-                </presentation>
-                <presentation>
-                  <attributes>
-                    <map>
-                      <entry key="filePath" value="$PROJECT_DIR$/neofetch/scp-logo.txt" />
-                    </map>
-                  </attributes>
-                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="scp-logo.txt" />
-                  <item name="scp-logo.txt" type="ab9368bb:PsiFileNode" />
-                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/neofetch.bak" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="neofetch.bak" />
+                <item name="dir{file:///home/zach/.config/neofetch.bak}" type="462c0819:PsiDirectoryNode" />
               </presentation>
               <presentation>
                 <attributes>
@@ -250,6 +211,15 @@
                 </attributes>
                 <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="dolphinrc" />
                 <item name="dolphinrc" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/kcalcrc" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="kcalcrc" />
+                <item name="kcalcrc" type="ab9368bb:PsiFileNode" />
               </presentation>
               <presentation>
                 <attributes>
@@ -317,13 +287,13 @@
     <option name="projectQueriesDirectory" value="$PROJECT_DIR$/.idea/queries" />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2838000" />
+    <option name="totallyTimeSpent" value="5394000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
-      <window_info id="Commit" order="1" weight="0.3301577" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.3301577" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3301577" />
+      <window_info id="Commit" order="2" weight="0.3301577" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
@@ -338,11 +308,15 @@
       <unified_weights left="0.3301577" />
     </layoutV2>
     <recentWindows>
-      <value>Commit</value>
       <value>Project</value>
+      <value>Commit</value>
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
+    <state x="556" y="220" key="FileChooserDialogImpl" timestamp="1772037955487">
+      <screen x="0" y="35" width="1536" height="829" />
+    </state>
+    <state x="556" y="220" key="FileChooserDialogImpl/0.35.1536.829@0.35.1536.829" timestamp="1772037955487" />
     <state x="506" y="295" key="Github.ShareDialog" timestamp="1771976536423">
       <screen x="0" y="35" width="1536" height="829" />
     </state>
@@ -351,26 +325,44 @@
       <screen x="0" y="35" width="1536" height="829" />
     </state>
     <state x="277" y="99" key="SettingsEditor/0.35.1536.829@0.35.1536.829" timestamp="1771976553071" />
-    <state x="368" y="198" key="Vcs.Push.Dialog.v2" timestamp="1772031116914">
+    <state x="368" y="198" key="Vcs.Push.Dialog.v2" timestamp="1772036095537">
       <screen x="0" y="35" width="1536" height="829" />
     </state>
-    <state x="368" y="198" key="Vcs.Push.Dialog.v2/0.35.1536.829@0.35.1536.829" timestamp="1772031116914" />
+    <state x="368" y="198" key="Vcs.Push.Dialog.v2/0.35.1536.829@0.35.1536.829" timestamp="1772036095537" />
+    <state x="506" y="170" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1772043717004">
+      <screen x="0" y="35" width="1536" height="829" />
+    </state>
+    <state x="506" y="170" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.35.1536.829@0.35.1536.829" timestamp="1772043717004" />
+    <state x="368" y="149" key="conflicts.dialog" timestamp="1772043030641">
+      <screen x="0" y="35" width="1536" height="829" />
+    </state>
+    <state x="368" y="149" key="conflicts.dialog/0.35.1536.829@0.35.1536.829" timestamp="1772043030641" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/neofetch/scp-logo.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/neofetch/scp-logo.txt">
+    <entry file="file://$PROJECT_DIR$/waybar/modules.jsonc">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/neofetch/config.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1804">
-          <caret line="389" column="30" selection-start-line="389" selection-start-column="30" selection-end-line="389" selection-end-column="30" />
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
