@@ -15,3 +15,5 @@
 !waybar/**
 !images/
 !images/**
+!fastfetch/
+!fastfetch/**
