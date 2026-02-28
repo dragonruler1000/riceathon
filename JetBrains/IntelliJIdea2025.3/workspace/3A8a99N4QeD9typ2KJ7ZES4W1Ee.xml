@@ -31,8 +31,13 @@
       <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fastfetch/config.jsonc" file-id="272090" managing-fs="1770768669829">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="374">
-              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            <state relative-caret-position="-990">
+              <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
+              <folding>
+                <element signature="n#!!block;n#logo#0;n#!!top" />
+                <element signature="n#!!block;n#display#0;n#!!top" />
+                <element signature="n#!!block;n#general#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -392,13 +397,13 @@
     <option name="projectQueriesDirectory" value="$PROJECT_DIR$/.idea/queries" />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13113000" />
+    <option name="totallyTimeSpent" value="14338000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32843137" />
-      <window_info id="Commit" order="2" weight="0.32843137" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.32843137" />
+      <window_info active="true" id="Commit" order="2" visible="true" weight="0.32843137" />
       <window_info id="Pull Requests" order="3" weight="0.32843137" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
@@ -414,8 +419,8 @@
       <unified_weights bottom="0.32989067" left="0.32843137" />
     </layoutV2>
     <recentWindows>
-      <value>Project</value>
       <value>Commit</value>
+      <value>Project</value>
       <value>Problems View</value>
       <value>Terminal</value>
       <value>Pull Requests</value>
@@ -434,10 +439,10 @@
       <screen x="0" y="35" width="1536" height="829" />
     </state>
     <state x="277" y="99" key="SettingsEditor/0.35.1536.829@0.35.1536.829" timestamp="1772303936836" />
-    <state x="368" y="198" key="Vcs.Push.Dialog.v2" timestamp="1772306683466">
+    <state x="368" y="198" key="Vcs.Push.Dialog.v2" timestamp="1772318820176">
       <screen x="0" y="35" width="1536" height="829" />
     </state>
-    <state x="368" y="198" key="Vcs.Push.Dialog.v2/0.35.1536.829@0.35.1536.829" timestamp="1772306683466" />
+    <state x="368" y="198" key="Vcs.Push.Dialog.v2/0.35.1536.829@0.35.1536.829" timestamp="1772318820176" />
     <state x="506" y="170" width="524" height="558" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1772318420032">
       <screen x="0" y="35" width="1536" height="829" />
     </state>
@@ -503,8 +508,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fastfetch/config.jsonc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        <state relative-caret-position="-990">
+          <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!block;n#logo#0;n#!!top" />
+            <element signature="n#!!block;n#display#0;n#!!top" />
+            <element signature="n#!!block;n#general#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>

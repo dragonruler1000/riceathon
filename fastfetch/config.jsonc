@@ -125,9 +125,9 @@
       "keyIcon": "",
       "fqdn": false,
       "color": {
-        "user": "",
-        "at": "",
-        "host": ""
+        "user": "red",
+        "at": "red",
+        "host": "red"
       }
     },
     {
