@@ -11,7 +11,7 @@
       <file>
         <entry file="file://$PROJECT_DIR$/neofetch/config.conf" file-id="204499" managing-fs="1770768669829">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="-2156">
+            <state relative-caret-position="9064">
               <caret line="412" column="34" selection-start-line="412" selection-start-column="34" selection-end-line="412" selection-end-column="34" />
             </state>
           </provider>
@@ -28,10 +28,10 @@
         </entry>
         <tab><![CDATA[{"tabTitle":".gitignore","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,77,10,19,118,99,115,47,105,103,110,111,114,101,95,102,105,108,101,46,115,118,103,18,27,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,105,103,110,111,114,101,100,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-117,-17,-30,-110,-7,-1,-1,-1,-1,1,48,2]}]]></tab>
       </file>
-      <file current-in-tab="true">
+      <file>
         <entry file="file://$PROJECT_DIR$/fastfetch/config.jsonc" file-id="272090" managing-fs="1770768669829">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="-990">
+            <state relative-caret-position="22">
               <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
               <folding>
                 <element signature="n#!!block;n#logo#0;n#!!top" />
@@ -41,7 +41,13 @@
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"config.jsonc","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-55,-15,-115,-58,-6,-1,-1,-1,-1,1,48,2]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"fastfetch/config.jsonc","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-55,-15,-115,-58,-6,-1,-1,-1,-1,1,48,2]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/waybar/config.jsonc" file-id="204008" managing-fs="1770768669829">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"waybar/config.jsonc","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-55,-15,-115,-58,-6,-1,-1,-1,-1,1,48,2]}]]></tab>
       </file>
       <file>
         <entry file="file://$PROJECT_DIR$/kcalcrc" file-id="269960" managing-fs="1770768669829">
@@ -58,18 +64,22 @@
       <file>
         <entry file="file://$PROJECT_DIR$/hypr/hyprland.conf" file-id="199297" managing-fs="1770768669829">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="22">
+            <state relative-caret-position="6248">
               <caret line="284" column="33" selection-start-line="284" selection-start-column="33" selection-end-line="284" selection-end-column="33" />
             </state>
           </provider>
         </entry>
         <tab><![CDATA[{"tabTitle":"hyprland.conf","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
       </file>
-      <file>
+      <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/waybar/layouts/spc.jsonc" file-id="269271" managing-fs="1770768669829">
-          <provider editor-type-id="text-editor" selected="true" />
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="88">
+              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"spc.jsonc","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-55,-15,-115,-58,-6,-1,-1,-1,-1,1,48,2]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"spc.jsonc","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-55,-15,-115,-58,-6,-1,-1,-1,-1,1,48,2]}]]></tab>
       </file>
       <file>
         <entry file="file://$PROJECT_DIR$/hypr/hyprpaper.conf" file-id="199296" managing-fs="1770768669829">
@@ -92,24 +102,24 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "PLAIN_TEXT": {
-      "usageCount": 4,
-      "lastUsed": 1772317378252
+      "usageCount": 6,
+      "lastUsed": 1772320314095
     },
     "GitIgnore file": {
-      "usageCount": 4,
-      "lastUsed": 1772303949800
+      "usageCount": 5,
+      "lastUsed": 1772320313074
     },
     "textmate": {
-      "usageCount": 9,
-      "lastUsed": 1772303950467
+      "usageCount": 12,
+      "lastUsed": 1772320314139
     },
     "CSS": {
       "usageCount": 1,
       "lastUsed": 1772042967728
     },
     "JSON": {
-      "usageCount": 6,
-      "lastUsed": 1772306144025
+      "usageCount": 10,
+      "lastUsed": 1772320331239
     },
     "QmlType": {
       "usageCount": 1,
@@ -146,7 +156,8 @@
     "/home/zach/.config/quickshell/spc/shell.qml",
     "/home/zach/.config/neofetch/config.conf",
     "/home/zach/.config/.gitignore",
-    "/home/zach/.config/fastfetch/config.jsonc"
+    "/home/zach/.config/fastfetch/config.jsonc",
+    "/home/zach/.config/waybar/layouts/spc.jsonc"
   ]
 }]]></component>
   <component name="IgnoredFileRootStore">
@@ -161,19 +172,19 @@
       <summary usageCount="1" lastUsage="1772042967728" />
     </language>
     <language id="GitIgnore">
-      <summary usageCount="4" lastUsage="1772303949803" />
+      <summary usageCount="5" lastUsage="1772320313074" />
     </language>
     <language id="JSON">
-      <summary usageCount="6" lastUsage="1772306144025" />
+      <summary usageCount="10" lastUsage="1772320331239" />
     </language>
     <language id="QmlLang">
       <summary usageCount="1" lastUsage="1772304056801" />
     </language>
     <language id="TEXT">
-      <summary usageCount="4" lastUsage="1772317378252" />
+      <summary usageCount="6" lastUsage="1772320314095" />
     </language>
     <language id="textmate">
-      <summary usageCount="9" lastUsage="1772303950467" />
+      <summary usageCount="12" lastUsage="1772320314139" />
     </language>
   </component>
   <component name="ProjectRoots">
@@ -199,6 +210,17 @@
               <item name=".config" type="b2602c69:ProjectViewProjectNode" />
               <item name="dir{file:///home/zach/.config}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file:///home/zach/.config/images}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".config" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/zach/.config}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/zach/.config/waybar}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".config" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/zach/.config}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/zach/.config/waybar}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/zach/.config/waybar/layouts}" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -303,6 +325,78 @@
                 </attributes>
                 <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="waybar" />
                 <item name="dir{file:///home/zach/.config/waybar}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/waybar/css" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="css" />
+                  <item name="dir{file:///home/zach/.config/waybar/css}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/waybar/layouts" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="layouts" />
+                  <item name="dir{file:///home/zach/.config/waybar/layouts}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/waybar/layouts/spc.jsonc" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="spc.jsonc" />
+                    <item name="spc.jsonc" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/waybar/layouts/with_music.jsonc" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="with_music.jsonc" />
+                    <item name="with_music.jsonc" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/waybar/layouts/with_window.jsonc" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="with_window.jsonc" />
+                    <item name="with_window.jsonc" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/waybar/config.jsonc" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="config.jsonc" />
+                  <item name="config.jsonc" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/waybar/modules.jsonc" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="modules.jsonc" />
+                  <item name="modules.jsonc" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/waybar/style.css" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/css.svg" iconPlugin="com.intellij" isLeaf="true" text="style.css" />
+                  <item name="style.css" type="ab9368bb:PsiFileNode" />
+                </presentation>
               </presentation>
               <presentation>
                 <attributes>
@@ -397,13 +491,13 @@
     <option name="projectQueriesDirectory" value="$PROJECT_DIR$/.idea/queries" />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14338000" />
+    <option name="totallyTimeSpent" value="14370000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.32843137" />
-      <window_info active="true" id="Commit" order="2" visible="true" weight="0.32843137" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32843137" />
+      <window_info id="Commit" order="2" weight="0.32843137" />
       <window_info id="Pull Requests" order="3" weight="0.32843137" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
@@ -419,8 +513,8 @@
       <unified_weights bottom="0.32989067" left="0.32843137" />
     </layoutV2>
     <recentWindows>
-      <value>Commit</value>
       <value>Project</value>
+      <value>Commit</value>
       <value>Problems View</value>
       <value>Terminal</value>
       <value>Pull Requests</value>
@@ -459,13 +553,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/neofetch/scp-logo.txt" />
     <entry file="file://$PROJECT_DIR$/style.css" />
-    <entry file="file://$PROJECT_DIR$/waybar/modules.jsonc">
+    <entry file="file://$PROJECT_DIR$/quickshell/spc/shell.qml" />
+    <entry file="file://$PROJECT_DIR$/kcalcrc">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/quickshell/spc/shell.qml">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -478,43 +573,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hypr/hyprland.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
+        <state relative-caret-position="6248">
           <caret line="284" column="33" selection-start-line="284" selection-start-column="33" selection-end-line="284" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/waybar/layouts/spc.jsonc">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/neofetch/config.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2156">
-          <caret line="412" column="34" selection-start-line="412" selection-start-column="34" selection-end-line="412" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kcalcrc">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dolphinrc">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/fastfetch/config.jsonc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-990">
+        <state relative-caret-position="22">
           <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
           <folding>
             <element signature="n#!!block;n#logo#0;n#!!top" />
             <element signature="n#!!block;n#display#0;n#!!top" />
             <element signature="n#!!block;n#general#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dolphinrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neofetch/config.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9064">
+          <caret line="412" column="34" selection-start-line="412" selection-start-column="34" selection-end-line="412" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/waybar/modules.jsonc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/waybar/config.jsonc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/waybar/layouts/spc.jsonc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
