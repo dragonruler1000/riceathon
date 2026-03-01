@@ -36,8 +36,8 @@
       <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hypr/hyprlock.conf" file-id="272185" managing-fs="1770768669829">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="691">
-              <caret line="109" column="7" selection-start-line="109" selection-start-column="7" selection-end-line="109" selection-end-column="7" />
+            <state relative-caret-position="999">
+              <caret line="123" column="47" selection-start-line="123" selection-start-column="47" selection-end-line="123" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -377,7 +377,7 @@
     <option name="projectQueriesDirectory" value="$PROJECT_DIR$/.idea/queries" />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26061000" />
+    <option name="totallyTimeSpent" value="26845000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
@@ -419,15 +419,15 @@
       <screen x="0" y="35" width="1536" height="829" />
     </state>
     <state x="277" y="99" key="SettingsEditor/0.35.1536.829@0.35.1536.829" timestamp="1772303936836" />
-    <state x="2380" y="236" key="Vcs.Push.Dialog.v2" timestamp="1772383810062">
+    <state x="2380" y="236" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1772398588319">
       <screen x="1920" y="0" width="1920" height="1200" />
     </state>
-    <state x="2380" y="236" key="Vcs.Push.Dialog.v2/0.0.768.432/1920.0.1920.1200@1920.0.1920.1200" timestamp="1772383810062" />
+    <state x="2380" y="236" width="800" height="532" key="Vcs.Push.Dialog.v2/0.0.768.432/1920.0.1920.1200@1920.0.1920.1200" timestamp="1772398588319" />
     <state x="368" y="198" key="Vcs.Push.Dialog.v2/0.35.1536.829@0.35.1536.829" timestamp="1772318820176" />
-    <state x="2553" y="195" width="524" height="558" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1772382882530">
+    <state x="2553" y="195" width="524" height="558" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1772399350024">
       <screen x="1920" y="0" width="1920" height="1200" />
     </state>
-    <state x="2553" y="195" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.768.432/1920.0.1920.1200@1920.0.1920.1200" timestamp="1772382882530" />
+    <state x="2553" y="195" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.768.432/1920.0.1920.1200@1920.0.1920.1200" timestamp="1772399350024" />
     <state x="506" y="170" width="524" height="558" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.35.1536.829@0.35.1536.829" timestamp="1772318420032" />
     <state x="368" y="149" key="conflicts.dialog" timestamp="1772043030641">
       <screen x="0" y="35" width="1536" height="829" />
@@ -503,8 +503,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hypr/hyprlock.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="691">
-          <caret line="109" column="7" selection-start-line="109" selection-start-column="7" selection-end-line="109" selection-end-column="7" />
+        <state relative-caret-position="999">
+          <caret line="123" column="47" selection-start-line="123" selection-start-column="47" selection-end-line="123" selection-end-column="47" />
         </state>
       </provider>
     </entry>
