@@ -8,31 +8,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf ideFingerprint="17bh7nezu4sxo" SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file>
-        <entry file="file://$PROJECT_DIR$/neofetch/config.conf" file-id="204499" managing-fs="1770768669829">
-          <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="9064">
-              <caret line="412" column="34" selection-start-line="412" selection-start-column="34" selection-end-line="412" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-        <tab><![CDATA[{"tabTitle":"config.conf","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
-      </file>
-      <file>
-        <entry file="file://$PROJECT_DIR$/.gitignore" file-id="268922" managing-fs="1770768669829">
-          <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="396">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-        <tab><![CDATA[{"tabTitle":".gitignore","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,77,10,19,118,99,115,47,105,103,110,111,114,101,95,102,105,108,101,46,115,118,103,18,27,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,105,103,110,111,114,101,100,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-117,-17,-30,-110,-7,-1,-1,-1,-1,1,48,2]}]]></tab>
-      </file>
-      <file>
+      <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fastfetch/config.jsonc" file-id="272090" managing-fs="1770768669829">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="22">
-              <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
+            <state relative-caret-position="374">
+              <caret line="264" column="17" selection-start-line="264" selection-start-column="17" selection-end-line="264" selection-end-column="17" />
               <folding>
                 <element signature="n#!!block;n#logo#0;n#!!top" />
                 <element signature="n#!!block;n#display#0;n#!!top" />
@@ -41,85 +21,31 @@
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"fastfetch/config.jsonc","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-55,-15,-115,-58,-6,-1,-1,-1,-1,1,48,2]}]]></tab>
-      </file>
-      <file>
-        <entry file="file://$PROJECT_DIR$/waybar/config.jsonc" file-id="204008" managing-fs="1770768669829">
-          <provider editor-type-id="text-editor" selected="true" />
-        </entry>
-        <tab><![CDATA[{"tabTitle":"waybar/config.jsonc","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-55,-15,-115,-58,-6,-1,-1,-1,-1,1,48,2]}]]></tab>
-      </file>
-      <file>
-        <entry file="file://$PROJECT_DIR$/kcalcrc" file-id="269960" managing-fs="1770768669829">
-          <provider editor-type-id="text-editor" selected="true" />
-        </entry>
-        <tab><![CDATA[{"tabTitle":"kcalcrc","foregroundColor":-2712981,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"d69a6b"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
-      </file>
-      <file>
-        <entry file="file://$PROJECT_DIR$/dolphinrc" file-id="198997" managing-fs="1770768669829">
-          <provider editor-type-id="text-editor" selected="true" />
-        </entry>
-        <tab><![CDATA[{"tabTitle":"dolphinrc","foregroundColor":-2712981,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"d69a6b"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
-      </file>
-      <file>
-        <entry file="file://$PROJECT_DIR$/hypr/hyprland.conf" file-id="199297" managing-fs="1770768669829">
-          <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="6248">
-              <caret line="284" column="33" selection-start-line="284" selection-start-column="33" selection-end-line="284" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-        <tab><![CDATA[{"tabTitle":"hyprland.conf","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
-      </file>
-      <file current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/waybar/layouts/spc.jsonc" file-id="269271" managing-fs="1770768669829">
-          <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="88">
-              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-        <tab><![CDATA[{"tabTitle":"spc.jsonc","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-55,-15,-115,-58,-6,-1,-1,-1,-1,1,48,2]}]]></tab>
-      </file>
-      <file>
-        <entry file="file://$PROJECT_DIR$/hypr/hyprpaper.conf" file-id="199296" managing-fs="1770768669829">
-          <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="132">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-        <tab><![CDATA[{"tabTitle":"hyprpaper.conf","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
-      </file>
-      <file>
-        <entry file="file://$PROJECT_DIR$/waybar/modules.jsonc" file-id="269265" managing-fs="1770768669829">
-          <provider editor-type-id="text-editor" selected="true" />
-        </entry>
-        <tab><![CDATA[{"tabTitle":"modules.jsonc","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-55,-15,-115,-58,-6,-1,-1,-1,-1,1,48,2]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"config.jsonc","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-55,-15,-115,-58,-6,-1,-1,-1,-1,1,48,2]}]]></tab>
       </file>
     </leaf>
   </component>
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "PLAIN_TEXT": {
-      "usageCount": 6,
-      "lastUsed": 1772320314095
+      "usageCount": 8,
+      "lastUsed": 1772320409787
     },
     "GitIgnore file": {
-      "usageCount": 5,
-      "lastUsed": 1772320313074
+      "usageCount": 6,
+      "lastUsed": 1772320409646
     },
     "textmate": {
-      "usageCount": 12,
-      "lastUsed": 1772320314139
+      "usageCount": 15,
+      "lastUsed": 1772320410341
     },
     "CSS": {
       "usageCount": 1,
       "lastUsed": 1772042967728
     },
     "JSON": {
-      "usageCount": 10,
-      "lastUsed": 1772320331239
+      "usageCount": 15,
+      "lastUsed": 1772321714883
     },
     "QmlType": {
       "usageCount": 1,
@@ -156,8 +82,8 @@
     "/home/zach/.config/quickshell/spc/shell.qml",
     "/home/zach/.config/neofetch/config.conf",
     "/home/zach/.config/.gitignore",
-    "/home/zach/.config/fastfetch/config.jsonc",
-    "/home/zach/.config/waybar/layouts/spc.jsonc"
+    "/home/zach/.config/waybar/layouts/spc.jsonc",
+    "/home/zach/.config/fastfetch/config.jsonc"
   ]
 }]]></component>
   <component name="IgnoredFileRootStore">
@@ -172,19 +98,19 @@
       <summary usageCount="1" lastUsage="1772042967728" />
     </language>
     <language id="GitIgnore">
-      <summary usageCount="5" lastUsage="1772320313074" />
+      <summary usageCount="6" lastUsage="1772320409646" />
     </language>
     <language id="JSON">
-      <summary usageCount="10" lastUsage="1772320331239" />
+      <summary usageCount="15" lastUsage="1772321714883" />
     </language>
     <language id="QmlLang">
       <summary usageCount="1" lastUsage="1772304056801" />
     </language>
     <language id="TEXT">
-      <summary usageCount="6" lastUsage="1772320314095" />
+      <summary usageCount="8" lastUsage="1772320409787" />
     </language>
     <language id="textmate">
-      <summary usageCount="12" lastUsage="1772320314139" />
+      <summary usageCount="15" lastUsage="1772320410341" />
     </language>
   </component>
   <component name="ProjectRoots">
@@ -491,13 +417,13 @@
     <option name="projectQueriesDirectory" value="$PROJECT_DIR$/.idea/queries" />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14370000" />
+    <option name="totallyTimeSpent" value="17405000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32843137" />
-      <window_info id="Commit" order="2" weight="0.32843137" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.32843137" />
+      <window_info active="true" id="Commit" order="2" visible="true" weight="0.32843137" />
       <window_info id="Pull Requests" order="3" weight="0.32843137" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
@@ -513,8 +439,8 @@
       <unified_weights bottom="0.32989067" left="0.32843137" />
     </layoutV2>
     <recentWindows>
-      <value>Project</value>
       <value>Commit</value>
+      <value>Project</value>
       <value>Problems View</value>
       <value>Terminal</value>
       <value>Pull Requests</value>
@@ -554,8 +480,12 @@
     <entry file="file://$PROJECT_DIR$/neofetch/scp-logo.txt" />
     <entry file="file://$PROJECT_DIR$/style.css" />
     <entry file="file://$PROJECT_DIR$/quickshell/spc/shell.qml" />
-    <entry file="file://$PROJECT_DIR$/kcalcrc">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/waybar/layouts/spc.jsonc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -564,34 +494,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/waybar/config.jsonc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/waybar/modules.jsonc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/hypr/hyprpaper.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hypr/hyprland.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6248">
-          <caret line="284" column="33" selection-start-line="284" selection-start-column="33" selection-end-line="284" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fastfetch/config.jsonc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
-          <folding>
-            <element signature="n#!!block;n#logo#0;n#!!top" />
-            <element signature="n#!!block;n#display#0;n#!!top" />
-            <element signature="n#!!block;n#general#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dolphinrc">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/neofetch/config.conf">
       <provider selected="true" editor-type-id="text-editor">
@@ -600,16 +514,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/waybar/modules.jsonc">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/waybar/config.jsonc">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/waybar/layouts/spc.jsonc">
+    <entry file="file://$PROJECT_DIR$/hypr/hyprland.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="663">
+          <caret line="284" column="33" selection-start-line="284" selection-start-column="33" selection-end-line="284" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dolphinrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kcalcrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastfetch/config.jsonc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="264" column="17" lean-forward="true" selection-start-line="264" selection-start-column="17" selection-end-line="264" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!block;n#logo#0;n#!!top" />
+            <element signature="n#!!block;n#display#0;n#!!top" />
+            <element signature="n#!!block;n#general#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>

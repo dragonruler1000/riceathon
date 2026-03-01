@@ -133,7 +133,7 @@
     {
       "type": "separator",
       "string": "-",
-      "outputColor": "",
+      "outputColor": "cyan",
       "times": 0
     },
     {
@@ -211,15 +211,15 @@
     {
       "type": "cpu",
       "keyIcon": "",
-      "temp": false,
-      "showPeCoreCount": false
+      "temp": true,
+      "showPeCoreCount": true
     },
     {
       "type": "gpu",
       "keyIcon": "󰾲",
       "driverSpecific": false,
       "detectionMethod": "pci",
-      "temp": false,
+      "temp": true,
       "hideType": "none",
       "percent": {
         "green": 50,
@@ -264,22 +264,6 @@
         "yellow": 80,
         "type": 0
       }
-    },
-    {
-      "type": "localip",
-      "keyIcon": "󰩟",
-      "showIpv4": true,
-      "showIpv6": false,
-      "showMac": false,
-      "showLoop": false,
-      "showPrefixLen": true,
-      "showMtu": false,
-      "showSpeed": false,
-      "showFlags": false,
-      "compact": false,
-      "defaultRouteOnly": true,
-      "showAllIps": false,
-      "namePrefix": ""
     },
     {
       "type": "battery",
