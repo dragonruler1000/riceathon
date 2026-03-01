@@ -17,3 +17,5 @@
 !images/**
 !fastfetch/
 !fastfetch/**
+!mako/
+!mako/**

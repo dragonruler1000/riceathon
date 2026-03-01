@@ -27,13 +27,13 @@
         <entry file="file://$PROJECT_DIR$/hypr/hyprland.conf" file-id="199297" managing-fs="1770768669829">
           <provider editor-type-id="text-editor" selected="true">
             <state relative-caret-position="594">
-              <caret line="51" column="12" lean-forward="true" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="29" />
+              <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="29" />
             </state>
           </provider>
         </entry>
         <tab><![CDATA[{"tabTitle":"hyprland.conf","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
       </file>
-      <file current-in-tab="true">
+      <file>
         <entry file="file://$PROJECT_DIR$/hypr/hyprlock.conf" file-id="272185" managing-fs="1770768669829">
           <provider editor-type-id="text-editor" selected="true">
             <state relative-caret-position="999">
@@ -41,23 +41,59 @@
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"hyprlock.conf","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"hyprlock.conf","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/rofi/current.rasi" file-id="199300" managing-fs="1770768669829">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="550">
+              <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"current.rasi","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/rofi/scp.rasi" file-id="199302" managing-fs="1770768669829">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"scp.rasi","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/kitty/themes/scp.conf" file-id="204937" managing-fs="1770768669829">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="110">
+              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"scp.conf","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore" file-id="268922" managing-fs="1770768669829">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="440">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":".gitignore","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,77,10,19,118,99,115,47,105,103,110,111,114,101,95,102,105,108,101,46,115,118,103,18,27,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,105,103,110,111,114,101,100,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-117,-17,-30,-110,-7,-1,-1,-1,-1,1,48,2]}]]></tab>
       </file>
     </leaf>
   </component>
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "PLAIN_TEXT": {
-      "usageCount": 8,
-      "lastUsed": 1772320409787
+      "usageCount": 10,
+      "lastUsed": 1772399657787
     },
     "GitIgnore file": {
-      "usageCount": 6,
-      "lastUsed": 1772320409646
+      "usageCount": 7,
+      "lastUsed": 1772399899465
     },
     "textmate": {
-      "usageCount": 30,
-      "lastUsed": 1772395481537
+      "usageCount": 31,
+      "lastUsed": 1772399811922
     },
     "CSS": {
       "usageCount": 1,
@@ -99,12 +135,13 @@
   "changedPaths": [
     "/home/zach/.config/quickshell/spc/shell.qml",
     "/home/zach/.config/neofetch/config.conf",
-    "/home/zach/.config/.gitignore",
     "/home/zach/.config/waybar/layouts/spc.jsonc",
     "/home/zach/.config/fastfetch/config.jsonc",
     "/home/zach/.config/hypr/hyprpaper.conf",
     "/home/zach/.config/hypr/hyprland.conf",
-    "/home/zach/.config/hypr/hyprlock.conf"
+    "/home/zach/.config/hypr/hyprlock.conf",
+    "/home/zach/.config/kitty/themes/scp.conf",
+    "/home/zach/.config/.gitignore"
   ]
 }]]></component>
   <component name="IgnoredFileRootStore">
@@ -119,7 +156,7 @@
       <summary usageCount="1" lastUsage="1772042967728" />
     </language>
     <language id="GitIgnore">
-      <summary usageCount="6" lastUsage="1772320409646" />
+      <summary usageCount="7" lastUsage="1772399899465" />
     </language>
     <language id="JSON">
       <summary usageCount="20" lastUsage="1772395481444" />
@@ -128,10 +165,10 @@
       <summary usageCount="1" lastUsage="1772304056801" />
     </language>
     <language id="TEXT">
-      <summary usageCount="8" lastUsage="1772320409787" />
+      <summary usageCount="10" lastUsage="1772399657787" />
     </language>
     <language id="textmate">
-      <summary usageCount="30" lastUsage="1772395481537" />
+      <summary usageCount="31" lastUsage="1772399811922" />
     </language>
   </component>
   <component name="ProjectRoots">
@@ -152,6 +189,11 @@
               <item name=".config" type="b2602c69:ProjectViewProjectNode" />
               <item name="dir{file:///home/zach/.config}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file:///home/zach/.config/hypr}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".config" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/zach/.config}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/zach/.config/rofi}" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -251,11 +293,11 @@
               <presentation>
                 <attributes>
                   <map>
-                    <entry key="filePath" value="$PROJECT_DIR$/menus" />
+                    <entry key="filePath" value="$PROJECT_DIR$/mako" />
                   </map>
                 </attributes>
-                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="menus" />
-                <item name="dir{file:///home/zach/.config/menus}" type="462c0819:PsiDirectoryNode" />
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="mako" />
+                <item name="dir{file:///home/zach/.config/mako}" type="462c0819:PsiDirectoryNode" />
               </presentation>
               <presentation>
                 <attributes>
@@ -274,6 +316,33 @@
                 </attributes>
                 <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="rofi" />
                 <item name="dir{file:///home/zach/.config/rofi}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/rofi/current.rasi" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="current.rasi" />
+                  <item name="current.rasi" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/rofi/scp.rasi" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="scp.rasi" />
+                  <item name="scp.rasi" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/rofi/scp-non-ai.rasi" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="scp-non-ai.rasi" />
+                  <item name="scp-non-ai.rasi" type="ab9368bb:PsiFileNode" />
+                </presentation>
               </presentation>
               <presentation>
                 <attributes>
@@ -377,13 +446,13 @@
     <option name="projectQueriesDirectory" value="$PROJECT_DIR$/.idea/queries" />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26845000" />
+    <option name="totallyTimeSpent" value="27618000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.19879833" />
-      <window_info active="true" id="Commit" order="2" visible="true" weight="0.19879833" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19879833" />
+      <window_info id="Commit" order="2" weight="0.19879833" />
       <window_info id="Pull Requests" order="3" weight="0.32843137" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
@@ -399,8 +468,8 @@
       <unified_weights bottom="0.32989067" left="0.19879833" />
     </layoutV2>
     <recentWindows>
-      <value>Commit</value>
       <value>Project</value>
+      <value>Commit</value>
       <value>Problems View</value>
       <value>Terminal</value>
       <value>Pull Requests</value>
@@ -419,10 +488,10 @@
       <screen x="0" y="35" width="1536" height="829" />
     </state>
     <state x="277" y="99" key="SettingsEditor/0.35.1536.829@0.35.1536.829" timestamp="1772303936836" />
-    <state x="2380" y="236" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1772398588319">
+    <state x="2380" y="236" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1772399607099">
       <screen x="1920" y="0" width="1920" height="1200" />
     </state>
-    <state x="2380" y="236" width="800" height="532" key="Vcs.Push.Dialog.v2/0.0.768.432/1920.0.1920.1200@1920.0.1920.1200" timestamp="1772398588319" />
+    <state x="2380" y="236" width="800" height="532" key="Vcs.Push.Dialog.v2/0.0.768.432/1920.0.1920.1200@1920.0.1920.1200" timestamp="1772399607099" />
     <state x="368" y="198" key="Vcs.Push.Dialog.v2/0.35.1536.829@0.35.1536.829" timestamp="1772318820176" />
     <state x="2553" y="195" width="524" height="558" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1772399350024">
       <screen x="1920" y="0" width="1920" height="1200" />
@@ -446,13 +515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -505,6 +567,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="999">
           <caret line="123" column="47" selection-start-line="123" selection-start-column="47" selection-end-line="123" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rofi/current.rasi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rofi/scp.rasi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kitty/themes/scp.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
         </state>
       </provider>
     </entry>
