@@ -7,8 +7,8 @@
 }
 
 window#waybar {
-    background-color: #0d0d0d;
-    border-bottom: 2px solid #ff4500;
+    background-color: #0d0dff;
+    border-bottom: 2px solid #16076e;
     color: #ffffff;
 }
 
@@ -21,14 +21,14 @@ window#waybar {
 }
 
 #workspaces button.active {
-    background-color: #1a1a1a;
-    border: 1px solid #ff4500;
-    color: #ff4500;
+    background-color: #5d5ddb;
+    border: 1px solid #16076e;
+    color: #16076e;
 }
 
 #workspaces button:hover {
-    background-color: #2d2d2d;
-    border: 1px solid #ff4500;
+    background-color: #5d5ddb;
+    border: 1px solid #16076e;
 }
 
 #window {
@@ -38,17 +38,17 @@ window#waybar {
 }
 
 #clock {
-    color: #ff4500;
+    color: #16076e;
     font-weight: bold;
     padding: 0 15px;
-    background-color: #1a1a1a;
-    border: 1px solid #ff4500;
+    background-color: #5d5ddb;
+    border: 1px solid #16076e;
 }
 
-#cpu, #memory, #battery, #network, #pulseaudio {
+#cpu, #memory, #gpu, #battery, #network, #pulseaudio {
     padding: 0 10px;
     color: #ffffff;
-    background-color: #1a1a1a;
+    background-color: #5d5ddb;
     border: 1px solid #4a4a4a;
     margin: 2px;
 }

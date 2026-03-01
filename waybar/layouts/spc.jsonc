@@ -9,7 +9,7 @@
   "modules-right": ["pulseaudio", "network", "cpu", "memory", "battery", "tray"],
 
   "hyprland/workspaces": {
-    "format": "SITE-{name}",
+    "format": "MFT-{name}",
     "on-click": "activate"
   },
 
