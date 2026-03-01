@@ -23,31 +23,21 @@
         </entry>
         <tab><![CDATA[{"tabTitle":"config.jsonc","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-55,-15,-115,-58,-6,-1,-1,-1,-1,1,48,2]}]]></tab>
       </file>
-      <file current-in-tab="true">
+      <file>
         <entry file="file://$PROJECT_DIR$/hypr/hyprland.conf" file-id="199297" managing-fs="1770768669829">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="383">
-              <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+            <state relative-caret-position="594">
+              <caret line="51" column="12" lean-forward="true" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="29" />
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"hyprland.conf","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"hyprland.conf","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
       </file>
-      <file>
-        <entry file="file://$PROJECT_DIR$/hypr/hyprpaper.conf" file-id="199296" managing-fs="1770768669829">
-          <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="176">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-        <tab><![CDATA[{"tabTitle":"hyprpaper.conf","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
-      </file>
-      <file>
+      <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hypr/hyprlock.conf" file-id="272185" managing-fs="1770768669829">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="977">
-              <caret line="116" column="19" lean-forward="true" selection-start-line="116" selection-start-column="19" selection-end-line="116" selection-end-column="19" />
+            <state relative-caret-position="691">
+              <caret line="109" column="7" selection-start-line="109" selection-start-column="7" selection-end-line="109" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -66,16 +56,16 @@
       "lastUsed": 1772320409646
     },
     "textmate": {
-      "usageCount": 27,
-      "lastUsed": 1772393314713
+      "usageCount": 30,
+      "lastUsed": 1772395481537
     },
     "CSS": {
       "usageCount": 1,
       "lastUsed": 1772042967728
     },
     "JSON": {
-      "usageCount": 19,
-      "lastUsed": 1772393314428
+      "usageCount": 20,
+      "lastUsed": 1772395481444
     },
     "QmlType": {
       "usageCount": 1,
@@ -113,8 +103,8 @@
     "/home/zach/.config/waybar/layouts/spc.jsonc",
     "/home/zach/.config/fastfetch/config.jsonc",
     "/home/zach/.config/hypr/hyprpaper.conf",
-    "/home/zach/.config/hypr/hyprlock.conf",
-    "/home/zach/.config/hypr/hyprland.conf"
+    "/home/zach/.config/hypr/hyprland.conf",
+    "/home/zach/.config/hypr/hyprlock.conf"
   ]
 }]]></component>
   <component name="IgnoredFileRootStore">
@@ -132,7 +122,7 @@
       <summary usageCount="6" lastUsage="1772320409646" />
     </language>
     <language id="JSON">
-      <summary usageCount="19" lastUsage="1772393314428" />
+      <summary usageCount="20" lastUsage="1772395481444" />
     </language>
     <language id="QmlLang">
       <summary usageCount="1" lastUsage="1772304056801" />
@@ -141,7 +131,7 @@
       <summary usageCount="8" lastUsage="1772320409787" />
     </language>
     <language id="textmate">
-      <summary usageCount="27" lastUsage="1772393314713" />
+      <summary usageCount="30" lastUsage="1772395481537" />
     </language>
   </component>
   <component name="ProjectRoots">
@@ -387,13 +377,13 @@
     <option name="projectQueriesDirectory" value="$PROJECT_DIR$/.idea/queries" />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22973000" />
+    <option name="totallyTimeSpent" value="26061000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19879833" />
-      <window_info id="Commit" order="2" weight="0.19879833" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.19879833" />
+      <window_info active="true" id="Commit" order="2" visible="true" weight="0.19879833" />
       <window_info id="Pull Requests" order="3" weight="0.32843137" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
@@ -409,8 +399,8 @@
       <unified_weights bottom="0.32989067" left="0.19879833" />
     </layoutV2>
     <recentWindows>
-      <value>Project</value>
       <value>Commit</value>
+      <value>Project</value>
       <value>Problems View</value>
       <value>Terminal</value>
       <value>Pull Requests</value>
@@ -485,13 +475,6 @@
     <entry file="file://$PROJECT_DIR$/kcalcrc">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hypr/hyprpaper.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fastfetch/config.jsonc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3278">
@@ -504,17 +487,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hypr/hyprlock.conf">
+    <entry file="file://$PROJECT_DIR$/hypr/hyprpaper.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="977">
-          <caret line="116" column="19" lean-forward="true" selection-start-line="116" selection-start-column="19" selection-end-line="116" selection-end-column="19" />
+        <state relative-caret-position="176">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hypr/hyprland.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+        <state relative-caret-position="594">
+          <caret line="51" column="12" lean-forward="true" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hypr/hyprlock.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="691">
+          <caret line="109" column="7" selection-start-line="109" selection-start-column="7" selection-end-line="109" selection-end-column="7" />
         </state>
       </provider>
     </entry>
