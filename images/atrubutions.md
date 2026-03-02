@@ -1,1 +1,2 @@
 shark image for SELACHIAN-punch.jpg: [Hermanus Backpackers, CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons
+hyprlock background: <a href="https://commons.wikimedia.org/wiki/File:Ocean_water.jpg">apasciuto</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons
