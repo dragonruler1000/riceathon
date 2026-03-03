@@ -11,12 +11,12 @@
       <file>
         <entry file="file://$PROJECT_DIR$/hypr/hyprlock.conf" file-id="272185" managing-fs="1770768669829">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="440">
+            <state relative-caret-position="836">
               <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"hyprlock.conf","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"hyprlock.conf","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
       </file>
       <file>
         <entry file="file://$PROJECT_DIR$/images/atrubutions.md" file-id="275422" managing-fs="1770768669829">
@@ -32,7 +32,7 @@
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"atrubutions.md","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,96,10,24,105,99,111,110,115,47,77,97,114,107,100,111,119,110,80,108,117,103,105,110,46,115,118,103,18,24,105,99,111,110,115,47,101,120,112,117,105,47,109,97,114,107,100,111,119,110,46,115,118,103,26,29,111,114,103,46,105,110,116,101,108,108,105,106,46,112,108,117,103,105,110,115,46,109,97,114,107,100,111,119,110,40,-33,-55,-17,-63,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"atrubutions.md","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,96,10,24,105,99,111,110,115,47,77,97,114,107,100,111,119,110,80,108,117,103,105,110,46,115,118,103,18,24,105,99,111,110,115,47,101,120,112,117,105,47,109,97,114,107,100,111,119,110,46,115,118,103,26,29,111,114,103,46,105,110,116,101,108,108,105,106,46,112,108,117,103,105,110,115,46,109,97,114,107,100,111,119,110,40,-33,-55,-17,-63,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
       </file>
       <file>
         <entry file="file://$PROJECT_DIR$/fastfetch/config.jsonc" file-id="272090" managing-fs="1770768669829">
@@ -51,7 +51,7 @@
       <file>
         <entry file="file://$PROJECT_DIR$/mako/config" file-id="275205" managing-fs="1770768669829">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="933">
+            <state relative-caret-position="1628">
               <caret line="74" column="21" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
             </state>
           </provider>
@@ -61,8 +61,8 @@
       <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hypr/hyprland.conf" file-id="199297" managing-fs="1770768669829">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="-3916">
-              <caret line="125" column="24" selection-start-line="125" selection-start-column="24" selection-end-line="125" selection-end-column="24" />
+            <state relative-caret-position="770">
+              <caret line="335" column="34" selection-start-line="335" selection-start-column="34" selection-end-line="335" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -80,16 +80,14 @@
       </file>
       <file>
         <entry file="file://$PROJECT_DIR$/hypr/hyprsettings.toml" file-id="199295" managing-fs="1770768669829">
-          <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="-2112" />
-          </provider>
+          <provider editor-type-id="text-editor" selected="true" />
         </entry>
         <tab><![CDATA[{"tabTitle":"hyprsettings.toml","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,71,10,19,105,99,111,110,115,47,116,111,109,108,45,102,105,108,101,46,115,118,103,18,20,105,99,111,110,115,47,110,101,119,117,105,47,116,111,109,108,46,115,118,103,26,13,111,114,103,46,116,111,109,108,46,108,97,110,103,40,-98,-128,-23,-104,-7,-1,-1,-1,-1,1,48,2]}]]></tab>
       </file>
       <file>
         <entry file="file://$PROJECT_DIR$/kitty/themes/scp.conf" file-id="204937" managing-fs="1770768669829">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="-167">
+            <state relative-caret-position="110">
               <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
@@ -107,24 +105,24 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "PLAIN_TEXT": {
-      "usageCount": 13,
-      "lastUsed": 1772418635637
+      "usageCount": 14,
+      "lastUsed": 1772560527279
     },
     "GitIgnore file": {
       "usageCount": 8,
       "lastUsed": 1772401856830
     },
     "textmate": {
-      "usageCount": 46,
-      "lastUsed": 1772419025002
+      "usageCount": 51,
+      "lastUsed": 1772560527366
     },
     "CSS": {
       "usageCount": 5,
       "lastUsed": 1772410470044
     },
     "JSON": {
-      "usageCount": 32,
-      "lastUsed": 1772418476414
+      "usageCount": 33,
+      "lastUsed": 1772560527008
     },
     "QmlType": {
       "usageCount": 1,
@@ -139,16 +137,16 @@
       "lastUsed": 1772400407236
     },
     "Markdown": {
-      "usageCount": 3,
-      "lastUsed": 1772419302586
+      "usageCount": 4,
+      "lastUsed": 1772560531113
     },
     "Image": {
       "usageCount": 4,
       "lastUsed": 1772418458922
     },
     "TOML": {
-      "usageCount": 1,
-      "lastUsed": 1772419000703
+      "usageCount": 2,
+      "lastUsed": 1772560527204
     }
   }
 }]]></component>
@@ -193,9 +191,9 @@
     "/home/zach/.config/waybar/layouts/spc.jsonc",
     "/home/zach/.config/fastfetch/config.jsonc",
     "/home/zach/.config/hypr/hyprpaper.conf",
-    "/home/zach/.config/hypr/hyprland.conf",
     "/home/zach/.config/images/atrubutions.md",
-    "/home/zach/.config/hypr/hyprlock.conf"
+    "/home/zach/.config/hypr/hyprlock.conf",
+    "/home/zach/.config/hypr/hyprland.conf"
   ]
 }]]></component>
   <component name="IgnoredFileRootStore">
@@ -213,22 +211,22 @@
       <summary usageCount="8" lastUsage="1772401856830" />
     </language>
     <language id="JSON">
-      <summary usageCount="32" lastUsage="1772418476414" />
+      <summary usageCount="33" lastUsage="1772560527008" />
     </language>
     <language id="Markdown">
-      <summary usageCount="3" lastUsage="1772419302586" />
+      <summary usageCount="4" lastUsage="1772560531113" />
     </language>
     <language id="QmlLang">
       <summary usageCount="1" lastUsage="1772304056801" />
     </language>
     <language id="TEXT">
-      <summary usageCount="13" lastUsage="1772418635637" />
+      <summary usageCount="14" lastUsage="1772560527279" />
     </language>
     <language id="TOML">
-      <summary usageCount="1" lastUsage="1772419000703" />
+      <summary usageCount="2" lastUsage="1772560527204" />
     </language>
     <language id="textmate">
-      <summary usageCount="46" lastUsage="1772419025002" />
+      <summary usageCount="51" lastUsage="1772560527366" />
     </language>
   </component>
   <component name="ProjectRoots">
@@ -608,7 +606,7 @@
     <option name="projectQueriesDirectory" value="$PROJECT_DIR$/.idea/queries" />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43302000" />
+    <option name="totallyTimeSpent" value="43370000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
@@ -752,6 +750,16 @@
     <entry file="file://$PROJECT_DIR$/images/SPCLogo50.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/kitty/zenwritten_dark.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kitty/themes/scp.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fastfetch/config.jsonc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -763,13 +771,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mako/config">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="933">
-          <caret line="74" column="21" lean-forward="true" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hypr/hyprpaper.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -777,45 +778,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hypr/hyprsettings.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2112" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kitty/themes/scp.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-167">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kitty/zenwritten_dark.conf">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/atrubutions.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
-          <first_editor relative-caret-position="22">
-            <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
-            <folding>
-              <element signature="e#71#114#0#Markdown" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hypr/hyprlock.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
+        <state relative-caret-position="836">
           <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hypr/hyprsettings.toml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mako/config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1628">
+          <caret line="74" column="21" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hypr/hyprland.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3916">
-          <caret line="125" column="24" selection-start-line="125" selection-start-column="24" selection-end-line="125" selection-end-column="24" />
+        <state relative-caret-position="770">
+          <caret line="335" column="34" selection-start-line="335" selection-start-column="34" selection-end-line="335" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/atrubutions.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="22">
+            <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+            <folding>
+              <element signature="e#71#114#0#Markdown" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
