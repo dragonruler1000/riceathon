@@ -7,7 +7,7 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf ideFingerprint="17bh7nezu4sxo" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+    <leaf ideFingerprint="zmg4o1bio4wx" SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file>
         <entry file="file://$PROJECT_DIR$/hypr/hyprlock.conf" file-id="272185" managing-fs="1770768669829">
           <provider editor-type-id="text-editor" selected="true">
@@ -16,7 +16,7 @@
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"hyprlock.conf","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+        <tab>{&quot;tabTitle&quot;:&quot;hyprlock.conf&quot;,&quot;foregroundColor&quot;:-3025959,&quot;textAttributes&quot;:{&quot;name&quot;:&quot;a&quot;},&quot;icon&quot;:[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}</tab>
       </file>
       <file>
         <entry file="file://$PROJECT_DIR$/images/atrubutions.md" file-id="275422" managing-fs="1770768669829">
@@ -32,7 +32,7 @@
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"atrubutions.md","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,96,10,24,105,99,111,110,115,47,77,97,114,107,100,111,119,110,80,108,117,103,105,110,46,115,118,103,18,24,105,99,111,110,115,47,101,120,112,117,105,47,109,97,114,107,100,111,119,110,46,115,118,103,26,29,111,114,103,46,105,110,116,101,108,108,105,106,46,112,108,117,103,105,110,115,46,109,97,114,107,100,111,119,110,40,-33,-55,-17,-63,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+        <tab>{&quot;tabTitle&quot;:&quot;atrubutions.md&quot;,&quot;foregroundColor&quot;:-3025959,&quot;textAttributes&quot;:{&quot;name&quot;:&quot;a&quot;},&quot;icon&quot;:[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,96,10,24,105,99,111,110,115,47,77,97,114,107,100,111,119,110,80,108,117,103,105,110,46,115,118,103,18,24,105,99,111,110,115,47,101,120,112,117,105,47,109,97,114,107,100,111,119,110,46,115,118,103,26,29,111,114,103,46,105,110,116,101,108,108,105,106,46,112,108,117,103,105,110,115,46,109,97,114,107,100,111,119,110,40,-33,-55,-17,-63,-7,-1,-1,-1,-1,1,48,0]}</tab>
       </file>
       <file>
         <entry file="file://$PROJECT_DIR$/fastfetch/config.jsonc" file-id="272090" managing-fs="1770768669829">
@@ -46,7 +46,7 @@
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"config.jsonc","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-55,-15,-115,-58,-6,-1,-1,-1,-1,1,48,2]}]]></tab>
+        <tab>{&quot;tabTitle&quot;:&quot;config.jsonc&quot;,&quot;foregroundColor&quot;:-3025959,&quot;textAttributes&quot;:{&quot;name&quot;:&quot;a&quot;},&quot;icon&quot;:[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-55,-15,-115,-58,-6,-1,-1,-1,-1,1,48,2]}</tab>
       </file>
       <file>
         <entry file="file://$PROJECT_DIR$/mako/config" file-id="275205" managing-fs="1770768669829">
@@ -56,17 +56,17 @@
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"config","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+        <tab>{&quot;tabTitle&quot;:&quot;config&quot;,&quot;foregroundColor&quot;:-3025959,&quot;textAttributes&quot;:{&quot;name&quot;:&quot;a&quot;},&quot;icon&quot;:[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}</tab>
       </file>
       <file>
         <entry file="file://$PROJECT_DIR$/hypr/hyprland.conf" file-id="199297" managing-fs="1770768669829">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="396">
+            <state relative-caret-position="594">
               <caret line="27" column="16" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="16" />
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"hyprland.conf","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+        <tab>{&quot;tabTitle&quot;:&quot;hyprland.conf&quot;,&quot;foregroundColor&quot;:-9392385,&quot;textAttributes&quot;:{&quot;name&quot;:&quot;a&quot;,&quot;children&quot;:[{&quot;name&quot;:&quot;option&quot;,&quot;attributes&quot;:{&quot;name&quot;:&quot;FOREGROUND&quot;,&quot;value&quot;:&quot;70aeff&quot;}}]},&quot;icon&quot;:[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}</tab>
       </file>
       <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hypr/hyprpaper.conf" file-id="199296" managing-fs="1770768669829">
@@ -76,13 +76,13 @@
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"hyprpaper.conf","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+        <tab>{&quot;tabTitle&quot;:&quot;hyprpaper.conf&quot;,&quot;foregroundColor&quot;:-3025959,&quot;textAttributes&quot;:{&quot;name&quot;:&quot;a&quot;},&quot;icon&quot;:[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}</tab>
       </file>
       <file>
         <entry file="file://$PROJECT_DIR$/hypr/hyprsettings.toml" file-id="199295" managing-fs="1770768669829">
           <provider editor-type-id="text-editor" selected="true" />
         </entry>
-        <tab><![CDATA[{"tabTitle":"hyprsettings.toml","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,71,10,19,105,99,111,110,115,47,116,111,109,108,45,102,105,108,101,46,115,118,103,18,20,105,99,111,110,115,47,110,101,119,117,105,47,116,111,109,108,46,115,118,103,26,13,111,114,103,46,116,111,109,108,46,108,97,110,103,40,-98,-128,-23,-104,-7,-1,-1,-1,-1,1,48,2]}]]></tab>
+        <tab>{&quot;tabTitle&quot;:&quot;hyprsettings.toml&quot;,&quot;foregroundColor&quot;:-3025959,&quot;textAttributes&quot;:{&quot;name&quot;:&quot;a&quot;},&quot;icon&quot;:[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,71,10,19,105,99,111,110,115,47,116,111,109,108,45,102,105,108,101,46,115,118,103,18,20,105,99,111,110,115,47,110,101,119,117,105,47,116,111,109,108,46,115,118,103,26,13,111,114,103,46,116,111,109,108,46,108,97,110,103,40,-98,-128,-23,-104,-7,-1,-1,-1,-1,1,48,2]}</tab>
       </file>
       <file>
         <entry file="file://$PROJECT_DIR$/kitty/themes/scp.conf" file-id="204937" managing-fs="1770768669829">
@@ -92,37 +92,37 @@
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"scp.conf","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+        <tab>{&quot;tabTitle&quot;:&quot;scp.conf&quot;,&quot;foregroundColor&quot;:-3025959,&quot;textAttributes&quot;:{&quot;name&quot;:&quot;a&quot;},&quot;icon&quot;:[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}</tab>
       </file>
       <file>
         <entry file="file://$PROJECT_DIR$/kitty/zenwritten_dark.conf" file-id="204006" managing-fs="1770768669829">
           <provider editor-type-id="text-editor" selected="true" />
         </entry>
-        <tab><![CDATA[{"tabTitle":"zenwritten_dark.conf","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+        <tab>{&quot;tabTitle&quot;:&quot;zenwritten_dark.conf&quot;,&quot;foregroundColor&quot;:-3025959,&quot;textAttributes&quot;:{&quot;name&quot;:&quot;a&quot;},&quot;icon&quot;:[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}</tab>
       </file>
     </leaf>
   </component>
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "PLAIN_TEXT": {
-      "usageCount": 15,
-      "lastUsed": 1772890615218
+      "usageCount": 19,
+      "lastUsed": 1773961727974
     },
     "GitIgnore file": {
       "usageCount": 8,
       "lastUsed": 1772401856830
     },
     "textmate": {
-      "usageCount": 56,
-      "lastUsed": 1772890615819
+      "usageCount": 75,
+      "lastUsed": 1773961728424
     },
     "CSS": {
       "usageCount": 5,
       "lastUsed": 1772410470044
     },
     "JSON": {
-      "usageCount": 34,
-      "lastUsed": 1772890615157
+      "usageCount": 38,
+      "lastUsed": 1773961728148
     },
     "QmlType": {
       "usageCount": 1,
@@ -137,16 +137,16 @@
       "lastUsed": 1772400407236
     },
     "Markdown": {
-      "usageCount": 5,
-      "lastUsed": 1772890618139
+      "usageCount": 9,
+      "lastUsed": 1773961729140
     },
     "Image": {
       "usageCount": 4,
       "lastUsed": 1772418458922
     },
     "TOML": {
-      "usageCount": 3,
-      "lastUsed": 1772890615257
+      "usageCount": 7,
+      "lastUsed": 1773961728142
     }
   }
 }]]></component>
@@ -180,22 +180,22 @@
     </expand>
     <select />
   </component>
-  <component name="IdeDocumentHistory"><![CDATA[{
-  "changedPaths": [
-    "/home/zach/.config/quickshell/spc/shell.qml",
-    "/home/zach/.config/neofetch/config.conf",
-    "/home/zach/.config/.gitignore",
-    "/home/zach/.config/kitty/themes/scp.conf",
-    "/home/zach/.config/mako/config",
-    "/home/zach/.config/waybar/css/style.css",
-    "/home/zach/.config/waybar/layouts/spc.jsonc",
-    "/home/zach/.config/fastfetch/config.jsonc",
-    "/home/zach/.config/images/atrubutions.md",
-    "/home/zach/.config/hypr/hyprlock.conf",
-    "/home/zach/.config/hypr/hyprland.conf",
-    "/home/zach/.config/hypr/hyprpaper.conf"
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/zach/.config/quickshell/spc/shell.qml&quot;,
+    &quot;/home/zach/.config/neofetch/config.conf&quot;,
+    &quot;/home/zach/.config/.gitignore&quot;,
+    &quot;/home/zach/.config/kitty/themes/scp.conf&quot;,
+    &quot;/home/zach/.config/mako/config&quot;,
+    &quot;/home/zach/.config/waybar/css/style.css&quot;,
+    &quot;/home/zach/.config/waybar/layouts/spc.jsonc&quot;,
+    &quot;/home/zach/.config/fastfetch/config.jsonc&quot;,
+    &quot;/home/zach/.config/images/atrubutions.md&quot;,
+    &quot;/home/zach/.config/hypr/hyprlock.conf&quot;,
+    &quot;/home/zach/.config/hypr/hyprland.conf&quot;,
+    &quot;/home/zach/.config/hypr/hyprpaper.conf&quot;
   ]
-}]]></component>
+}</component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
@@ -211,22 +211,22 @@
       <summary usageCount="8" lastUsage="1772401856830" />
     </language>
     <language id="JSON">
-      <summary usageCount="34" lastUsage="1772890615161" />
+      <summary usageCount="38" lastUsage="1773961728148" />
     </language>
     <language id="Markdown">
-      <summary usageCount="5" lastUsage="1772890618139" />
+      <summary usageCount="9" lastUsage="1773961729140" />
     </language>
     <language id="QmlLang">
       <summary usageCount="1" lastUsage="1772304056801" />
     </language>
     <language id="TEXT">
-      <summary usageCount="15" lastUsage="1772890615218" />
+      <summary usageCount="19" lastUsage="1773961727974" />
     </language>
     <language id="TOML">
-      <summary usageCount="3" lastUsage="1772890615257" />
+      <summary usageCount="7" lastUsage="1773961728142" />
     </language>
     <language id="textmate">
-      <summary usageCount="56" lastUsage="1772890615819" />
+      <summary usageCount="75" lastUsage="1773961728424" />
     </language>
   </component>
   <component name="ProjectRoots">
@@ -606,13 +606,13 @@
     <option name="projectQueriesDirectory" value="$PROJECT_DIR$/.idea/queries" />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43714000" />
+    <option name="totallyTimeSpent" value="44269000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="1" weight="0.19879833" />
-      <window_info active="true" id="Commit" order="2" visible="true" weight="0.19901961" />
+      <window_info active="true" id="Commit" order="2" visible="true" weight="0.19879833" />
       <window_info id="Pull Requests" order="3" weight="0.32843137" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
@@ -625,7 +625,7 @@
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
       <window_info anchor="right" id="ElectroJunToolWindow" order="5" />
-      <unified_weights bottom="0.33002588" left="0.19901961" />
+      <unified_weights bottom="0.33002588" left="0.19879833" />
     </layoutV2>
     <recentWindows>
       <value>Commit</value>
@@ -636,9 +636,10 @@
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
-    <state x="556" y="220" key="FileChooserDialogImpl" timestamp="1772037955487">
-      <screen x="0" y="35" width="1536" height="829" />
+    <state x="695" y="241" width="424" height="458" key="FileChooserDialogImpl" timestamp="1773961742498">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="695" y="241" width="424" height="458" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1773961742498" />
     <state x="556" y="220" key="FileChooserDialogImpl/0.35.1536.829@0.35.1536.829" timestamp="1772037955487" />
     <state x="506" y="295" key="Github.ShareDialog" timestamp="1771976536423">
       <screen x="0" y="35" width="1536" height="829" />
@@ -648,9 +649,10 @@
       <screen x="0" y="35" width="1536" height="829" />
     </state>
     <state x="277" y="99" key="SettingsEditor/0.35.1536.829@0.35.1536.829" timestamp="1772303936836" />
-    <state x="221" y="118" width="547" height="266" key="Vcs.Push.Dialog.v2" timestamp="1772560646739">
-      <screen x="0" y="0" width="768" height="432" />
+    <state x="442" y="236" width="547" height="266" key="Vcs.Push.Dialog.v2" timestamp="1772890886923">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="442" y="236" key="Vcs.Push.Dialog.v2/0.0.1536.864/1920.0.1920.1200/5760.0.1920.1080@0.0.1536.864" timestamp="1772890886923" />
     <state x="221" y="118" width="547" height="266" key="Vcs.Push.Dialog.v2/0.0.768.432/1920.0.1920.1200@1920.0.1920.1200" timestamp="1772560646739" />
     <state x="368" y="198" key="Vcs.Push.Dialog.v2/0.35.1536.829@0.35.1536.829" timestamp="1772318820176" />
     <state x="2553" y="195" width="524" height="558" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1772404900664">
@@ -750,6 +752,30 @@
     <entry file="file://$PROJECT_DIR$/images/SPCLogo50.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/hypr/hyprlock.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mako/config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1628">
+          <caret line="74" column="21" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hypr/hyprpaper.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hypr/hyprsettings.toml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/fastfetch/config.jsonc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -761,13 +787,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mako/config">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1628">
-          <caret line="74" column="21" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kitty/themes/scp.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -775,18 +794,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hypr/hyprlock.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hypr/hyprsettings.toml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/kitty/zenwritten_dark.conf">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hypr/hyprland.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/atrubutions.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -798,20 +814,6 @@
             </folding>
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hypr/hyprland.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="27" column="16" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hypr/hyprpaper.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
         </state>
       </provider>
     </entry>
