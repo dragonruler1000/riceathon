@@ -43,7 +43,7 @@ hl.monitor({
 })
 
 hl.monitor({
-    output = "HDMI-A-2",
+    output = "HDMI-A-1",
     mode = "1920x1080@60",
     position = "0x-1080",
     scale = "1",
@@ -89,7 +89,7 @@ hl.env("QT_QPA_PLATFORMTHEME", "qt5ct")
 
 hl.env("XDG_MENU_PREFIX", "arch-")
 
-hl.env("HYPRSHOT_DIR", "/mnt/secondary/screenshots")
+hl.env("HYPRSHOT_DIR", "/home/zach/screenshots")
 
 hl.curve("easeOutQuint", { type = "bezier", points = { { 0.23, 1 }, { 0.32, 1 } } })
 hl.curve("easeInOutCubic", { type = "bezier", points = { { 0.65, 0.05 }, { 0.36, 1 } } })
